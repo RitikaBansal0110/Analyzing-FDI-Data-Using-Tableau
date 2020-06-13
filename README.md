@@ -1,5 +1,5 @@
 # Analyzing-FDI-Data-Using-Tableau
-In this case study I have taken a FDI (Foreign Direct Investment) dataset and analyzed it from the perspective of a business. Also analyzed at various sectors will prove most beneficial to collaborate with for the company.
+In this case study I have taken a FDI (Foreign Direct Investment) dataset and analysed it from the perspective of a business. Also analysed at various sectors will prove most beneficial to collaborate with for the company.
 
 1. Which sector recieves maximum direct for the given year.
 
